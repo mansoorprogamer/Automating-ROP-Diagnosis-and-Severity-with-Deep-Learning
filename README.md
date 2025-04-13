@@ -1,5 +1,5 @@
 # Automating ROP Diagnosis and Severity with Deep Learning  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](License)
 
 This project focuses on building an automated diagnostic system for Retinopathy of Prematurity (ROP) — a vision-threatening condition in premature infants. ROP remains a leading cause of childhood blindness, especially in low-resource regions where access to trained ophthalmologists is limited.
 
