@@ -34,11 +34,6 @@ In resource-limited or rural areas, ROP screening is often delayed or unavailabl
 - External dataset validation for robustness and real-world deployment
 - Clinical Decision Support System (CDSS) integration
 
-## 🔗 Dataset
-
-Retinal images were sourced from a public Kaggle dataset:  
-[Retinal Image Dataset of Infants and ROP](https://www.kaggle.com/datasets/jananowakova/retinal-image-dataset-of-infants-and-rop)
-
 ## 📚 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
